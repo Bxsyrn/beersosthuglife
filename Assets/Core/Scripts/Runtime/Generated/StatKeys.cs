@@ -14,5 +14,7 @@ namespace Blocks.Gameplay.Core
         public static readonly int Stamina = Animator.StringToHash("Stamina");
         /// <summary>Hash for 'Coin' (from Assets/Platformer/Data/PlayerStats-Platformer.asset)</summary>
         public static readonly int Coin = Animator.StringToHash("Coin");
+        /// <summary>Hash for ' JetpackFuel' (from Assets/Platformer/Data/PlayerStats-Platformer.asset)</summary>
+        public static readonly int JetpackFuel = Animator.StringToHash(" JetpackFuel");
     }
 }

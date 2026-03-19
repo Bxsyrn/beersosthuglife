@@ -16,4 +16,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 0f444342d396b4f4aa6eacf84ef00fa7, type: 2}
   - {fileID: 11400000, guid: 0fefe13da3dc44456902f785321ca098, type: 2}
   - {fileID: 11400000, guid: be4e928421f744041804f7c077b8472a, type: 2}
+  - {fileID: 11400000, guid: b70c977067b858c4d9b099810a506455, type: 2}
   primaryStatName: Health
